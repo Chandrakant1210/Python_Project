@@ -1,0 +1,3 @@
+https://google.com  -->  https             'secured' 
+http://facebook.com  -->  http             'not secured' 
+ftp://server.com  -->  unknown protocol  'not secured' 

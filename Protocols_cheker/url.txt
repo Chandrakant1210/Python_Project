@@ -1,0 +1,3 @@
+https://google.com
+http://facebook.com
+ftp://server.com
