@@ -200,10 +200,9 @@ This project demonstrates practical knowledge of:
 B.Tech CSE Student | Python Developer | AI & Cybersecurity Enthusiast
 
 GitHub:
-https://github.com/yourusername
+https://github.com/chandrakant1210
 
-LinkedIn:
-https://linkedin.com/in/yourprofile
+
 
 ---
 
